@@ -1,12 +1,12 @@
 {
   "name": "http-status-decorator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hapi http status decorator plugin",
   "preferGlobal": false,
   "main": "./lib/index.js",
   "bin": {},
-  "dependencies": { },
-  "devDependencies": { },
+  "dependencies": {},
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git@github.com:gabesoft/http-status-decorator.git"
